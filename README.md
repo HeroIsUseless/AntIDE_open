@@ -1,5 +1,5 @@
 # AntIDE_open
-> A highly looked IDE for primary
+> 顺手点一下右上角star，真的很重要的呀！！谢谢
 ## 开发日志
 ### 2019/7/24
 美化控制台输出，控制台可以接收输入
