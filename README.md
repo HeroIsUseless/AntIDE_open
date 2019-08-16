@@ -1,5 +1,5 @@
 # AntIDE_open
-> A highly looked IDE for primary
+> 顺手点一下右上角star，真的很重要的呀！！谢谢
 ## 开发日志
 
 ### 2019/8/16
